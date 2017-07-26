@@ -1,2 +1,0 @@
-# motoita.github.io
-motoblog
